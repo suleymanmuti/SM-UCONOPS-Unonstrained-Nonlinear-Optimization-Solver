@@ -1,0 +1,28 @@
+*** SM-UCONOPS: Unonstrained Nonlinear Optimization Solver by Suleyman Muti ***
+
+
+
+-------
+SUMMARY
+-------
+
+Objective function:
+f = x1^2 - 2*x1*x2 - 4*x1 + 2*x2^2;
+
+Initial design point:
+x(0) = (1.000000; 1.000000)
+
+Solution Method:
+BFGS Method
+
+
+-------
+RESULTS
+-------
+
+Optimum design:
+x* = (4.000024; 2.000018)
+f(x*) = -8.000000
+
+Number of iterations:
+2
